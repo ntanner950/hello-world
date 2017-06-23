@@ -1,2 +1,2 @@
 # hello-world
-trying to learn this github business
+I need to learn this stuff for this microsoft interview
